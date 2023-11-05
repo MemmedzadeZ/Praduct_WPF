@@ -8,6 +8,8 @@
       d:DesignHeight="450" d:DesignWidth="800"
       Title="MainViewPagee">
 
+<DarcPanel>
+
     <Grid Background="White">
         <Grid.RowDefinitions >
             <RowDefinition Height="*"/>
@@ -155,4 +157,6 @@
 
 
     </Grid>
+
+</DarcPanel>
 </Page>
